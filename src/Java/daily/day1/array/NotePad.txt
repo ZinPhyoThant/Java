@@ -1,0 +1,7 @@
+Array => Collection of data element
+
+//Array initialization
+data type [] arrayName = ["Mg","Hla","Aung"];
+
+//Array Delcare
+data type [] arrayName = new datatype[size];
