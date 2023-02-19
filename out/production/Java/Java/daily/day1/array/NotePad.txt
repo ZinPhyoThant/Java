@@ -1,5 +1,16 @@
 Array => Collection of data element
 
+1.1 One Dimensional array
+1.2 Two or Multidimendional array
+1.3 Jugged Array
+
+ArrayCopy
+public static void arraycopy(     @NotNull  Object src,
+    int srcPos,
+    @NotNull  Object dest,
+    int destPos,
+    int length )
+
 //Array initialization
 data type [] arrayName = ["Mg","Hla","Aung"];
 

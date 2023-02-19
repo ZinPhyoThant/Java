@@ -17,7 +17,15 @@ public class ForLoop {
         }
         System.out.println();
 
-        //
+
+        int num [] = {1,2,3,4,5};
+        //for each loop
+        for (int nums: num
+             ) {
+            System.out.print(nums);
+
+        }
+
 
     }
 }

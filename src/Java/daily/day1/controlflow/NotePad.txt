@@ -36,3 +36,7 @@ do{
 for(initialize statement;condition statement;count++--){
 statement;
 }
+2.3 for each loop
+for(dataType typo: arrayName ){
+statemnt;
+}
