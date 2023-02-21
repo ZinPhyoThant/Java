@@ -1,0 +1,10 @@
+Object Oriented Programming Language
+
+1.Object
+2.Class
+3.Inheritance
+4.Polymorphism
+5.Abstraction
+6.Encapsulation
+
+1. Object ->

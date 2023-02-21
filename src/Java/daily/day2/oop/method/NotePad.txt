@@ -1,0 +1,40 @@
+Method -> code twy ko reuse pyn lod chin los yay ya tr
+//State apple /color =red/ weight =100g
+//Behavior /function => drive/eat/
+
+//Syntax
+ Access modifier(public,static)
+ Non-Access modifier( return type methodName(Parameter) =>method header)
+ {implementation} => method body
+
+//create
+
+//returnType methodName(){}  *(){}create time *()call
+
+Method type 2
+1.predefined method
+2.user defined method
+
+// User Defined Method
+ Instance Method -> object nae call tone
+ Static Method
+
+//create -> parameter -> variable
+//use -> argument -> value
+
+Return Type -> void
+int ->0
+String ->null
+return type yae out mr br ma yay los ma ya bu in java
+
+
+ Method Name ko small letter nae py
+
+// User Input
+    // Syntax
+Scanner variableName = Constructor;
+
+
+
+
+

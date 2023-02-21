@@ -16,3 +16,5 @@ data type [] arrayName = ["Mg","Hla","Aung"];
 
 //Array Delcare
 data type [] arrayName = new datatype[size];
+
+duplicate - ထပ်တာတွေရှင်း

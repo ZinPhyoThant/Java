@@ -1,0 +1,43 @@
+Object
+-State -> Apple / color =red/weight=>100g
+-Behavior -> method / function -> car /drive | man /run/eat
+-Object can create in main method.
+Syntax - className objectName = new Constructor(); (className();)
+-Object Initialization * Object ကို initialize လုပ်တဲ့နည်း 3 နည်း
+
+1. variable directly ထည့်နည်း (attribute => direct)
+2. By Method ()
+3.Using Constructor ()
+
+//attribute ->direct
+//method ->
+//Constructor->
+
+//new keyword
+//newInstance()method
+//clone()
+//deserialization
+//factory method
+
+//ClassName Obj = new Constructor(); |
+new Constructor(); is called anonymous object
+Anonymous object => new Constructor()
+
+!0!
+
+Class
+-Fields -> variable
+-Method
+
+Varibale
+1.Local Variable
+2.Global Variable
+
+
+1. Local Varibale
+- Main Method
+
+2. Global Variable
+- Between Class & Main Method
+-Include Static(static int num=12; -> static vatiable) | static - no need object. | muyin class ko . htauk pee call
+-Not Static (int num=12; -> instance variable)
