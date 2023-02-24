@@ -22,8 +22,8 @@ public class ObjectInit {
 
         //Anonymous Object
         int a=3,b=4,c=5;
-        System.out.println(new Student().id);
-        System.out.println(new Student().name);
+        System.out.println(new Student().id=3);
+        System.out.println(new Student().name="Aung");
 
         Student student3= new Student(), student4 = new Student();
 

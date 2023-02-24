@@ -26,6 +26,7 @@ public class TwoDimensionalArray {
             System.out.print(dnumbers[1][i] + "\t");
         }
         System.out.println();
+
         System.out.println( "this i foreach array output");
         for (int []num:dnumbers
              ) {

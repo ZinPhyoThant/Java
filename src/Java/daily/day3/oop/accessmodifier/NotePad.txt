@@ -1,0 +1,35 @@
+// 2 Modifier
+
+//1.Access Modifier
+1.1 public
+1.2 private
+1.3 protected
+1.4 default
+
+//2.Non-Access Modifier
+2.1 final
+2.2 abstract
+2.3 static
+2.4 transient
+2.5 synchronized
+2.5 volatile
+
+Java File mr
+//class => public /default
+    |final NA-modifier| => constant | 1 ini, if u again ini it's not working
+    |abstract|
+    constant ko varName ko akyi nae pae py
+
+//Fields
+    |public A-modifier|
+    public int a=34; //a is public, so we can call in other different package
+    |default A-modifier|
+    int a=1; //a is default, so we can call in the same folder.
+    |protected A-modifier|
+    int a=1; //a is protected, we can only see in folder
+    |private A-modifier|
+    int a=1; //a is private, we can use in one class.
+
+//method
+//constructor || only use public
+

@@ -1,0 +1,15 @@
+// Constructor look like method
+
+\\Syntax
+ClassName(para){job}
+Object sout ma alod lod ml
+Constructor(){} => 0 argument constructor || default constructor
+
+parameter pr yin -> parameterized constructor
+
+return type pr yin method // ma pr yin constructor
+
+Con -> no return type | Object
+Method -> return type | khai ma
+
+con purporse - method inti

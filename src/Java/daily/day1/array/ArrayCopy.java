@@ -19,6 +19,7 @@ public class ArrayCopy {
         for (int i=0;i<onum.length;i++){
             System.out.print(onum[i]);
         }
+        System.out.println();
 
         //Copy
         int other[] = new int[7];

@@ -1,0 +1,6 @@
+//Inheritance  => method twy ko reuse twy myr ag ma ton chin los inheritance ko ton tl
+1. Single inheritance
+2. Multi Level In
+3. Hierarchical in
+4. Multiple in
+5. Hybrid in

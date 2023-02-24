@@ -25,7 +25,7 @@ public class CustomArrayCopy {
         }
         System.out.println(largest);
 
-        System.out.println();
+
         //Sorting
         int value=0;
         int num1 [] = {4,1,3,2,6,5,9,7,8};

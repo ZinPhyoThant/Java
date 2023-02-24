@@ -1,0 +1,9 @@
+Polymorphism => same result different job
+//Method overloading =>
+    Same name | different para & datype in same class
+    Parameter ayatwt ma tu yin | data type twy ma tu yin
+/Data Type Promotion ->
+/Type Ampiguity
+
+//Method Overriding
+
