@@ -11,3 +11,4 @@ git push -u origin main -m "first commit"
 git remote add origin https://github.com/ZinPhyoThant/Java.git
 git branch -M main
 git push -u origin main
+if your repo is not found use this one => git remote set-url origin https://github.com/MyRepo/project.git
